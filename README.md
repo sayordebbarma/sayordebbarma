@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://images.unsplash.com/photo-1562813733-b31f71025d54?ixlib=rb4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2938&q=80" align="center" style="width: 100%" />
 </div>  
-<img src="https://user-images.githubusercontent.com/91954258/228909816-85407879-f8ae-4662-a012-955ec8d8a076.png" align="center" style="width: 100%" />
+<img src="[https://user-images.githubusercontent.com/91954258/228909816-85407879-f8ae-4662-a012-955ec8d8a076.png](https://storage.googleapis.com/duckly-blog/2021/03/gitduck-vs-code-extensions-animation-opt.gif)" align="center" style="width: 100%" />
 </div> 
   
 
