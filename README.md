@@ -71,7 +71,20 @@
 <div align="center">
   <h2>My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sayordebbarma/sayordebbarma/output/github-contribution-grid-snake.svg" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sayordebbarma/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sayordebbarma/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/sayordebbarma/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
   <br/><br/><br/>
 </div>
 
@@ -85,15 +98,4 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sayordebbarma&&style=flat-square" align="center" />
-</div>  
-
-
-<!---
-- 👋 Hi, I’m @Sayor8543
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning coding skills
-- 💞️ I’m looking to collaborate on well-know coders, teachers, etc.
-- 📫 How to reach me email
-Sayor8543/Sayor8543 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
