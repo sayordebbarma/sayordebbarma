@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://images.unsplash.com/photo-1562813733-b31f71025d54?ixlib=rb4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2938&q=80" align="center" style="width: 100%" />
+<img src="https://images.unsplash.com/photo-1562813733-b31f71025d54?ixlib=rb4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2938&q=80" align="center" style="width: 60%; height: auto;" />
+
 </div>  
 
 # <div align="center">Hello world! 👋, I'm Sayor Debbarma</div>  
@@ -70,7 +71,7 @@
 <a href="https://github.com/sayordebbarma" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/sayor debbarma" target="_blank">
+<a href="https://linkedin.com/in/sayordebbarma" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/ig_sayordb" target="_blank">
