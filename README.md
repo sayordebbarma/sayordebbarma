@@ -60,7 +60,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
 &nbsp;&nbsp;
-<a href="https://salesp07.github.io" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank" /> 
 </a>
 </div>  
