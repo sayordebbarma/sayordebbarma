@@ -6,7 +6,7 @@
 #### <div align="center">Beginner coder & UI/UX designer interested in full-stack and iOS development. </div>  
   
 
-- 🔭 I’m currently studying at VIT BHOPAL UNIVERSITY.
+- 🔭 I have graduated from VIT BHOPAL UNIVERSITY on July 2025.
   
 
 - 🌱 I’m currently learning coding skills like full-stack & IOS development, also UI/UX designing.
